@@ -1,4 +1,4 @@
-# US econom analysis
+# US economy analysis
 
 Project completed while studying at MIT
 
